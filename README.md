@@ -1,6 +1,5 @@
-# calc_imc
+# calc_imc with muscles
 
-A new Flutter project.
 
 ## Getting Started
 
